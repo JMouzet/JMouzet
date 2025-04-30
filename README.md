@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://gpp.jmouzet.fr/screen/screen.png" alt="Loading failed, try refreshing the page..." width="320" height="288" style="display: block; vertical-align: top;"><br>
+
+Controls:<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[^](https://gpp.jmouzet.fr/input/up)<br />
+[<](https://gpp.jmouzet.fr/input/left)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[>](https://gpp.jmouzet.fr/input/right)<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[v](https://gpp.jmouzet.fr/input/down)<br /><br />
+[A](https://gpp.jmouzet.fr/input/a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[B](https://gpp.jmouzet.fr/input/b)<br /><br />
+[START](https://gpp.jmouzet.fr/input/start)<br />
+[SELECT](https://gpp.jmouzet.fr/input/select)<br />
