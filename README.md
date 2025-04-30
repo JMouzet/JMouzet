@@ -13,10 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## [MAINTENANCE IN PROGRESS] Help us reach the end of Pokemon Yellow by sending the next input below 👇
+## Help us reach the end of Pokemon Yellow by sending the next input below 👇
 
 Due to GitHub cache, the screen will take about 1 minute to reload. There's not much I can do about that :/
-<img src="https://jmouzet.fr/gpp/offline.png" alt="Loading..." width="320" height="288" style="display: block; vertical-align: top;"><br>
+<img src="https://gpp.jmouzet.fr/screen/screen.png" alt="Loading..." width="320" height="288" style="display: block; vertical-align: top;"><br>
 
 Controls:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[^](https://gpp.jmouzet.fr/input/up)<br />
