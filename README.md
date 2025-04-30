@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://gpp.jmouzet.fr/screen/screen.png" alt="Loading failed, try refreshing the page..." width="320" height="288" style="display: block; vertical-align: top;"><br>
+<img src="https://gpp.jmouzet.fr/screen/screen.png" alt="Loading..." width="320" height="288" style="display: block; vertical-align: top;"><br>
 
 Controls:<br />
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[^](https://gpp.jmouzet.fr/input/up)<br />
