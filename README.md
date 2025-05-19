@@ -15,13 +15,55 @@ Here are some ideas to get you started:
 
 ## Help us reach the end of Pokemon Yellow by sending the next input below 👇
 
-Due to GitHub cache, the screen will take about 1 minute to reload. There's not much I can do about that :/
-<img src="https://gpp.jmouzet.fr/screen/screen.png" alt="Loading..." width="320" height="288" style="display: block; vertical-align: top;"><br>
+*Due to GitHub cache, the screen will take about 1 minute to reload, and there's not much I can do about that* :/
+<br/>
+<img src="https://gpp.jmouzet.fr/screen/screen.png" alt="Loading..." width="320" style="display: block; vertical-align: top; image-rendering: pixelated;"><br>
 
-Controls:<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[^](https://gpp.jmouzet.fr/input/up)<br />
-[<](https://gpp.jmouzet.fr/input/left)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[>](https://gpp.jmouzet.fr/input/right)<br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[v](https://gpp.jmouzet.fr/input/down)<br /><br />
-[A](https://gpp.jmouzet.fr/input/a)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[B](https://gpp.jmouzet.fr/input/b)<br /><br />
-[START](https://gpp.jmouzet.fr/input/start)<br />
-[SELECT](https://gpp.jmouzet.fr/input/select)<br />
+Controls:
+<!-- Up button -->
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gpp.jmouzet.fr/input/up">
+  <img src="https://img.shields.io/badge/‎ ↑‎ ‎ -D8D3DA">
+</a>
+<!-- Left button -->
+<br />
+<a href="https://gpp.jmouzet.fr/input/left">
+  <img src="https://img.shields.io/badge/←-D8D3DA">
+</a>
+<!-- Right button -->
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gpp.jmouzet.fr/input/right">
+  <img src="https://img.shields.io/badge/→-D8D3DA">
+</a>
+<!-- Down button -->
+<br />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gpp.jmouzet.fr/input/down">
+  <img src="https://img.shields.io/badge/‎ ↓‎ ‎ -D8D3DA">
+</a>
+
+<!-- A button -->
+<br />
+<br />
+<a href="https://gpp.jmouzet.fr/input/a">
+  <img src="https://img.shields.io/badge/‎ A‎‎‎ ‎ ‎  -8D0827">
+</a>
+<!-- B button -->
+&nbsp;&nbsp;&nbsp;&nbsp;
+<a href="https://gpp.jmouzet.fr/input/b">
+  <img src="https://img.shields.io/badge/‎ B‎‎ ‎ ‎‎ -8D0827">
+</a>
+
+<!-- START button -->
+<br />
+<br />
+<a href="https://gpp.jmouzet.fr/input/up">
+  <img src="https://img.shields.io/badge/START-C1BDD4">
+</a>
+<!-- SELECT button -->
+<br />
+<a href="https://gpp.jmouzet.fr/input/up">
+  <img src="https://img.shields.io/badge/SELECT-C1BDD4">
+</a>
+<br />
