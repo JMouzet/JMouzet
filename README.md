@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 Controls:
 <!-- Up button -->
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://gpp.jmouzet.fr/input/up">
   <img src="https://img.shields.io/badge/‎ ↑‎ ‎ -D8D3DA">
 </a>
@@ -32,13 +32,13 @@ Controls:
   <img src="https://img.shields.io/badge/←-D8D3DA">
 </a>
 <!-- Right button -->
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://gpp.jmouzet.fr/input/right">
   <img src="https://img.shields.io/badge/→-D8D3DA">
 </a>
 <!-- Down button -->
 <br />
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://gpp.jmouzet.fr/input/down">
   <img src="https://img.shields.io/badge/‎ ↓‎ ‎ -D8D3DA">
 </a>
