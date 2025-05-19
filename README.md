@@ -16,7 +16,8 @@ Here are some ideas to get you started:
 ## Help us reach the end of Pokemon Yellow by sending the next input below 👇
 
 *Due to GitHub cache, the screen will take about 1 minute to reload, and there's not much I can do about that* :/
-<br/>
+<br />
+<br />
 <img src="https://gpp.jmouzet.fr/screen/screen.png" alt="Loading..." width="320" style="display: block; vertical-align: top; image-rendering: pixelated;"><br>
 
 Controls:
